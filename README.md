@@ -163,18 +163,4 @@ Include a schema diagram (if possible) to help visualize the database structure.
     WHERE rank = 1;
     ```
 
-## How to Use
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/music-database-queries.git
-    cd music-database-queries
-    ```
-2. Import the database schema into your SQL environment.
-3. Execute the queries in your SQL client to test and analyze results.
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute.
-
----
-
-Feel free to reach out for collaboration or questions!
